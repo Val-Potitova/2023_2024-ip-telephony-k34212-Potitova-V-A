@@ -6,7 +6,7 @@ Group: K4212 \
 Author: Potitova Valentina Alexandrovna \
 Lab: Lab1 \
 Date of create: 07.02.2024 \
-Date of finished: 07.02.2024
+Date of finished: 13.02.2024
 
 # Лабораторная работа №1 "Базовая настройка ip-телефонов в среде Сisco packet tracer"
 

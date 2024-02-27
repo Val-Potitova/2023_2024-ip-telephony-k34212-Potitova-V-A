@@ -5,7 +5,7 @@ Year: 2023/2024 \
 Group: K4212 \
 Author: Potitova Valentina Alexandrovna \
 Lab: Lab3 \
-Date of create: 25.02.2024 \
+Date of create: 27.02.2024 \
 Date of finished: 27.02.2024
 
 # Лабораторная работа №3 " Использование Asterisk в качестве SIP proxy"
